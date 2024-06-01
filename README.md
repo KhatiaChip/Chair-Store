@@ -8,4 +8,4 @@ HTML & CSS
 # Deployment 
 You can review links here:
 
-<a href="https://khatiachip.github.io/Chair-Store/"> Demo version </a>
+ # DEMO [https://khatiachip.github.io/Chair-Store/]
