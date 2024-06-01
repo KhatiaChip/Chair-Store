@@ -9,7 +9,7 @@ HTML & CSS
 
 <img src=chair-Store.png>
 <img src=chair-store-02.png>
-<im src=chair-store-03.png>
+<img src=chair-store-03.png>
 
 # Deployment 
  <a href="https://khatiachip.github.io/Chair-Store/"> you can review project link here </a>
