@@ -6,6 +6,4 @@ A multi-page responsive website of an online store that allows you to buy chairs
 HTML & CSS 
 
 # Deployment 
-You can review links here:
-
- # DEMO [https://khatiachip.github.io/Chair-Store/] 
+ <a href="https://khatiachip.github.io/Chair-Store/"> you can review project link here </a>
